@@ -46,7 +46,3 @@ console.log(californiaCities)
 // GROUP BY PARTY AND SHOW ONLY CITIES WITH A POPULATION ABOVE 1 MILLION. SORT CITY NAMES ALPHABETICALLY
 const newData =
 console.log(newData)
-
-// GROUP BY PARTY AND LIST POPULATION FOR EACH STATE
-const populationData =
-console.log(populationData)
